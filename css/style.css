@@ -129,7 +129,7 @@ tbody tr:last-child td:last-child{
 
 /*Req 8*/
 footer{
-  position: absolute;
+  position: absolute, bottom;
   width:100%;
   background:#000000;
   text-align:center;
