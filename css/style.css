@@ -44,6 +44,7 @@ h1{
 
   /*Req 2*/
   line-height: 2;
+  text-align: center;
 }
 
 p{
@@ -105,6 +106,8 @@ tbody tr:hover{
 table{
   border: 2px solid #000000;
   border-radius: 10px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 thead tr:first-child th:first-child{
