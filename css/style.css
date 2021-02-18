@@ -35,6 +35,7 @@ body{
 
   /*Req 1*/
   background-image: url("../images/pigeon-background.JPEG");
+  background-repeat: no-repeat;
   background-color: #DDDDDD;
 }
 
@@ -129,10 +130,13 @@ tbody tr:last-child td:last-child{
 
 /*Req 8*/
 footer{
-  position: absolute, bottom;
   width:100%;
   background:#000000;
   text-align:center;
   color: #FFFFFF;
   min-height: 75px;
+  position: absolute;
+  left: 0%;
+  bottom: 0%;
+  right: 0%;
 }
